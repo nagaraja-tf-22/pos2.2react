@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6917aee7.css",
+    "main.js": "/static/js/main.c2ec6038.js",
+    "static/media/404.gif": "/static/media/404.20048500a40d17e32410.gif",
+    "static/media/logoTech.png": "/static/media/logoTech.43110855c4aff702a6af.png",
+    "index.html": "/index.html",
+    "main.6917aee7.css.map": "/static/css/main.6917aee7.css.map",
+    "main.c2ec6038.js.map": "/static/js/main.c2ec6038.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6917aee7.css",
+    "static/js/main.c2ec6038.js"
+  ]
+}
